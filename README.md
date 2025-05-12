@@ -10,6 +10,9 @@ This project analyzes product sales data using SQL in Google BigQuery and visual
 ## Key Insight:
 Smartphones had the highest average ticket, reinforcing the trend that mobile devices are no longer just tools – they’ve become an extension of the modern user.
 
+![Average Ticket Per Value Product](https://github.com/user-attachments/assets/405ed7da-4944-4ac9-9e3c-a8f5bcd73ecb)
+
+
 ## Files:
 - `Average Ticket Per Product.pdf` – Chart visual (Google Sheets)  
 - `average_ticket_result.csv` – Exported query result
